@@ -64,6 +64,7 @@ dependencies = [
  "assert_cmd",
  "colored",
  "predicates",
+ "regex",
 ]
 
 [[package]]
